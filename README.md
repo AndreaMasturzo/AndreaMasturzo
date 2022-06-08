@@ -3,7 +3,7 @@ Andrea Masturzo
 
 #### 🎓Student @Apple Developer Academy
 
-25 y.o., passionate about coding and frontend development. After graduating from scientific high-school I spent a few years looking for a path that really inspired me. I studied languages at “L’Orientale” University in Naples, but while struggling to find my passion, I stumbled upon some development pages and had the possibility to speak to some developers as well. After a month of self-study, I was able to join the Apple Developer Academy and finally find my life purpose.
+26 y.o., passionate about coding and frontend development. After graduating from scientific high-school I spent a few years looking for a path that really inspired me. I studied languages at “L’Orientale” University in Naples, but while struggling to find my passion, I stumbled upon some development pages and had the possibility to speak to some developers as well. After a month of self-study, I was able to join the Apple Developer Academy and finally find my life purpose.
 
 *   ✉️  You can contact me at [andrea.masturzo@icloud.com](mailto:andrea.masturzo@icloud.com)
 *   🚀  I'm currently working on [SushiRoll](http://github.com/AndreaMasturzo/SushiRollOverview)
