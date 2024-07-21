@@ -7,7 +7,7 @@ Andrea Masturzo
 
 *   ✉️  You can contact me at [andrea.masturzo@icloud.com](mailto:andrea.masturzo@icloud.com)
 *   🚀  I'm currently working on freelance projects
-*   🧠  I'm learning iOS Development, UI/UX Design
+*   🧠  I'm learning Web Development
 *   🤝  I'm open to collaborating on any inspiring project
 *   ⚡  🏀 ⚽️ Sports guy
 ### Skills<p align="left">
